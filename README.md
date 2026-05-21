@@ -1,6 +1,6 @@
 # Portfolio Setup — Development Environment Documentation
 
-**Candidate:** Kandada  
+**Candidate:** KANDADA AADHYA REDDY  
 **Repository:** [aadhyareddyy/Portfolio](https://github.com/aadhyareddyy/Portfolio)  
 **Completed:** May 21, 2026  
 
@@ -82,12 +82,6 @@ This document records the full setup process for the portfolio assignment: insta
 
 2. Confirmed on GitHub that `README.md` appears on the `main` branch.
 
-### Step 8 — Submit
-
-Reply to the assignment email with the direct link to the README on GitHub:
-
-`https://github.com/aadhyareddyy/Portfolio/blob/main/README.md`
-
 ---
 
 ## 3. What Issues I Ran Into and How I Solved Them
@@ -168,7 +162,6 @@ git push -u origin main
 - [x] Repository opened in Cursor
 - [x] README.md with three required sections
 - [x] Changes committed and pushed to GitHub
-- [ ] Reply to email with README link (candidate action after push)
 
 ---
 
