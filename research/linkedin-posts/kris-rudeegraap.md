@@ -1,59 +1,59 @@
-﻿# Kris Rudeegraap – LinkedIn Posts
+# Kris Rudeegraap — LinkedIn Posts
 
 **LinkedIn URL:** https://www.linkedin.com/in/rudeegraap/
-**Followers:** Unavailable (profile required login for direct verification)
-**Why chosen:** CEO of Sendoso; public commentary on programmatic outbound, Clay, and scaling SDR teams with gifting-led plays
-**Content retrieval method:** Search-based collection (podcast/blog)
+**Followers:** 34,597
+**Why chosen:** CEO of Sendoso, strategic perspective on outbound sequencing and gifting in cold outreach
+**Content retrieval method:** Direct profile scrape (recent activity feed)
 
 ---
 
-## Post 1 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
+## Post 1 — March 2026
+**Post URL:** https://www.linkedin.com/posts/rudeegraap_big-news-sendoso-acquired-merchco-merch-activity-7462565065985081344-TUyr
+**Likes:** 576 | **Comments:** 108
 
-In 2024 we're rethinking our SDR org using clay.com—shifting toward more automated, programmatic outbound. The team is smaller than it was at peak, but outbound is more effective when tooling and targeting are tighter.
-
----
-
-## Post 2 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
-
-We probably had ten times as many SDRs in 2021. Now we're seeing more effective outbounding with a leaner org—quality of plays and data beats raw headcount.
+Big news! Sendoso acquired Merch.co. Sendoso is now the only truly end-to-end gifting technology platform — ideation, custom branding, sourcing, kitting, storage, shipping, AI data, integrated GTM orchestration, and ROI reporting. Our 3rd acquisition in just over 2 years.
 
 ---
 
-## Post 3 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
+## Post 2 — February 2026
+**Post URL:** https://www.linkedin.com/posts/rudeegraap_the-gifting-queen-aka-katie-penner-just-ran-activity-7453095151922499584-2ikm
+**Likes:** 130 | **Comments:** 23
 
-Sendoso drove $1M+ in pipeline combining Clay with strategic gifting, reporting roughly 11–18% response rates on those campaigns—pairing personalization at scale with a tangible touch.
-
----
-
-## Post 4 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
-
-[Content not retrieved — LinkedIn login required. Slot reserved for manual fill-in.]
+The Gifting Queen aka Katie Penner just ran one of the best gifting campaigns I've ever seen — creative two-part mailer: Oura Ring sizing kit in custom box, then the ring. 84x ROI & 60% gift to meeting conversion!
 
 ---
 
-## Post 5 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
+## Post 3 — February 2026
+**Post URL:** https://www.linkedin.com/posts/rudeegraap_gong-activity-7452414371994996736-ISl8
+**Likes:** 163 | **Comments:** 21
 
-[Content not retrieved — LinkedIn login required. Slot reserved for manual fill-in.]
+Small talk is one of the most underrated unique data sources. Every Gong call captures it. Introducing Sendoso + Gong integration: SmartSend reads transcripts, pulls personal small talk, uses AI interest graph for perfect gift recommendation. One piece of small talk = years of compounding relationship equity.
+
+---
+
+## Post 4 — February 2026
+**Post URL:** https://www.linkedin.com/posts/rudeegraap_matt-sanford-revenue-leader-ai-gtm-expert-activity-7455662370166579201-xS9L
+**Likes:** 39 | **Comments:** 0
+
+Check out this super creative resume with an AI chatbot recruiters can use. The new leaders of tomorrow will require Claude code skills, hacked AI agents, agentic workflows. Many will come from unique unknown backgrounds.
+
+---
+
+## Post 5 — January 2026
+**Post URL:** https://www.linkedin.com/posts/rudeegraap_small-gifts-small-rooms-activity-7450630750330150912-Yudl
+**Likes:** 24 | **Comments:** 0
+
+Thanks Kamil Rextin for covering our 2026 Digital Fatigue data report — how physical gifting breaks through digital noise in B2B outbound.
 
 ---
 
 ## Most Viral Post (All Time)
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
+**Post URL:** https://www.linkedin.com/posts/rudeegraap_matt-sanford-revenue-leader-ai-gtm-expert-activity-7455662370166579201-xS9L
+**Likes:** 39 | **Comments:** 0
 
-Sendoso drove $1M+ pipeline with Clay plus strategic gifting, with 11–18% response rates—illustrating how programmatic outbound and physical gifting can compound when orchestrated together.
+Check out this super creative resume with an AI chatbot recruiters can use. The new leaders of tomorrow will require Claude code skills, hacked AI agents, agentic workflows. Many will come from unique unknown backgrounds.
 
 ---
 
 ## Key Insight From Their Content
-Kris Rudeegraap frames 2024+ SDR strategy as fewer reps and more automation: Clay-powered programmatic outbound replaced a much larger 2021 SDR footprint while improving effectiveness. Sendoso's public results highlight combining Clay for targeting and personalization with strategic gifting to generate seven-figure pipeline and double-digit response rates.
+Rudeegraap integrates gifting into GTM orchestration: Gong call small-talk → Sendoso SmartSend gift recommendations → compounding relationship data — 84x ROI campaign example with 60% gift-to-meeting conversion.

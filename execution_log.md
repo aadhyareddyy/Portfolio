@@ -4,20 +4,22 @@
 
 ---
 
-### LinkedIn Collection
+### LinkedIn Collection (updated 2026-06-15 — rescrape)
 
-| Expert | URL Used | Primary or Fallback | Posts Retrieved | Retrieval Method | Status |
-|--------|----------|---------------------|-----------------|------------------|--------|
-| Alex Berman | https://www.linkedin.com/in/alexberman3/ | Primary | 4 + 1 viral + 1 placeholder | Search-based collection | Done |
-| Belal Batrawy | https://www.linkedin.com/in/belbatrawy/ | Primary | 1 + 5 placeholders | Search-based collection | Done |
-| Jason Bay | https://www.linkedin.com/in/jasondbay/ | Primary | 3 + 3 placeholders | Search-based collection | Done |
-| Will Aitken | https://www.linkedin.com/in/will-aitken/ | Primary (posts from justwillaitken) | 1 + 5 placeholders | Search-based collection | Done |
-| Nick Abraham | https://www.linkedin.com/in/nicktabraham/ | Primary | 3 + 3 placeholders | Search-based collection | Done |
-| Matthew Putnam | https://www.linkedin.com/in/matthewputnam/ | Primary (posts from matthewrichardputnam) | 4 + 2 placeholders | Search-based collection | Done |
-| Kris Rudeegraap | https://www.linkedin.com/in/rudeegraap/ | Primary | 2 + 4 placeholders | Search-based collection | Done |
-| Ricky Pearl | https://www.linkedin.com/in/rickypearl/ | Primary | 2 + 4 placeholders | Search-based collection | Done |
-| Sam Nelson | https://www.linkedin.com/in/samnelsonoutbound/ | Primary | 2 + 4 placeholders | Search-based collection | Done |
-| Morgan J Ingram | https://www.linkedin.com/in/morganjingram/ | Primary (posts from morganjingramamp) | 3 + 3 placeholders | Search-based collection | Done |
+| Expert | URL Used | Posts Retrieved | Retrieval Method | Status |
+|--------|----------|-----------------|------------------|--------|
+| Alex Berman | https://www.linkedin.com/in/alexanderberman | 5 + viral | Direct profile + post page scrape | Done |
+| Belal Batrawy | https://www.linkedin.com/in/belbatrawy/ | 5 + viral | Direct profile + post page scrape | Done |
+| Jason Bay | https://www.linkedin.com/in/jasondbay/ | 5 + viral | Direct profile + post page scrape | Done |
+| Will Aitken | https://www.linkedin.com/in/justwillaitken/ | 5 + viral | Direct profile + post page scrape | Done |
+| Nick Abraham | https://www.linkedin.com/in/nick-abraham/ | 5 + viral | Direct profile + post page scrape | Done |
+| Matthew Putnam | https://www.linkedin.com/in/matthewrichardputnam/ | 5 + viral | Direct profile + post page scrape | Done |
+| Kris Rudeegraap | https://www.linkedin.com/in/rudeegraap/ | 5 + viral | Direct profile + post page scrape | Done |
+| Ricky Pearl | https://www.linkedin.com/in/rickypearl/ | 5 + viral | Direct profile + post page scrape | Done |
+| Sam Nelson | https://www.linkedin.com/in/realsamnelson/ | 5 + viral | Direct profile + post page scrape | Done |
+| Morgan J Ingram | https://www.linkedin.com/in/morganjingramamp/ | 5 + viral | Direct profile + post page scrape | Done |
+
+Engagement metrics (likes/comments) scraped from public LinkedIn post HTML via `scrape_engagement_v2.py`.
 
 ---
 

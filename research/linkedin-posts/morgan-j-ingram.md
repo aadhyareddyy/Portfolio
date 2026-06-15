@@ -1,59 +1,59 @@
-﻿# Morgan J Ingram – LinkedIn Posts
+# Morgan J Ingram — LinkedIn Posts
 
-**LinkedIn URL:** https://www.linkedin.com/in/morganjingram/
-**Followers:** Unavailable (profile required login for direct verification)
-**Why chosen:** AMP coaching founder; documents LinkedIn-native cadences and influence-led outbound with published client metrics
-**Content retrieval method:** Search-based collection (LinkedIn posts + profile)
+**LinkedIn URL:** https://www.linkedin.com/in/morganjingramamp/
+**Followers:** 195,538
+**Why chosen:** 4x LinkedIn Top Sales Voice, creator of SDR Chronicles, shares talk tracks and sequence data
+**Content retrieval method:** Direct profile scrape (recent activity feed)
 
 ---
 
-## Post 1 – Date unknown
+## Post 1 — March 2026
 **Post URL:** https://www.linkedin.com/posts/morganjingramamp_my-linkedin-cadence-has-a-33-response-rate-activity-7245174862036492288-Ki-2
-**Likes:** Unavailable | **Comments:** Unavailable
+**Likes:** 191 | **Comments:** 102
 
-My LinkedIn cadence has a 33% response rate—the "Green Lantern Cadence": blank connection request Day 1, comment Day 2, video or voice note Day 4, feedback ask Day 6, GIF Day 9.
+My LinkedIn cadence has a 33% response rate. I call it The Green Lantern Cadence. Day 1: blank LinkedIn request. Day 2: comment on their post. Day 4: video OR voice note. Day 6: ask for feedback. Day 9: funny gif. Diversify outreach to break through noise.
 
 ---
 
-## Post 2 – Date unknown
+## Post 2 — March 2026
+**Post URL:** https://www.linkedin.com/posts/morganjingramamp_i-asked-50-vp-of-sales-how-many-personalized-activity-7462836841994477568-LFv-
+**Likes:** 189 | **Comments:** 181
+
+I asked 50 VP of Sales how many personalized videos their reps sent last year. Most said 15-20 across the entire team for the year. I asked Alyssa Merwin (LinkedIn executive) — Zero. Math: 5 videos/rep/day × 5 reps = 500/month → 10% conversion = 50 meetings → $1M pipeline at $20K ACV.
+
+---
+
+## Post 3 — March 2026
+**Post URL:** https://www.linkedin.com/posts/morganjingramamp_consensuspartner-activity-7463218824008450050-4MOg
+**Likes:** 67 | **Comments:** 31
+
+Fireside chats feel amazing because only TWO people were in it — but decision makers weren't there. 3-step play: use champion momentum for next call, ask 'Who would feel left out?', send shareable demo with Consensus so stakeholders engage async. Stop selling to one person — build deal insurance.
+
+---
+
+## Post 4 — 2024
 **Post URL:** https://www.linkedin.com/posts/morganjingramamp_i-believe-influence-is-the-new-outbound-activity-7252334358684909569-aqyA
-**Likes:** Unavailable | **Comments:** 74
+**Likes:** 114 | **Comments:** 74
 
-"Influence is the new Outbound. Gone are the days of automated email sequences."—arguing social proof and relationship-led touches replace spray-and-pray email.
-
----
-
-## Post 3 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
-
-Profile / AMP coaching results (construction SaaS client): 29% increase in opportunities, 26% more meetings booked, $21M pipeline in 45 days.
+I believe Influence is the new Outbound. Gone are the days of automated email sequences. In are the days of Impact from Subject Matter Experts. At my panel I asked: 'Who wants to know how to utilize influencers for your GTM Strategy?' Everybody's hands went up.
 
 ---
 
-## Post 4 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
+## Post 5 — March 2026
+**Post URL:** https://www.linkedin.com/posts/morganjingramamp_look-we-all-know-its-ai-this-and-ai-that-activity-7459641133988761600-Ld8V
+**Likes:** 87 | **Comments:** 103
 
-[Content not retrieved — LinkedIn login required. Slot reserved for manual fill-in.]
-
----
-
-## Post 5 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
-
-[Content not retrieved — LinkedIn login required. Slot reserved for manual fill-in.]
+Buyers' inboxes are flooded with AI-generated outreach that all sounds the same. Session for VP Sales/CROs: 3-Strike Rule for LinkedIn follow-up (12-15% reply rates), Sweet Spot Window for buyers 4-10 months into new role, proof from rep who booked 17 meetings/month from 10-20 messages/week.
 
 ---
 
 ## Most Viral Post (All Time)
 **Post URL:** https://www.linkedin.com/posts/morganjingramamp_i-believe-influence-is-the-new-outbound-activity-7252334358684909569-aqyA
-**Likes:** Unavailable | **Comments:** 74
+**Likes:** 114 | **Comments:** 74
 
-"Influence is the new Outbound. Gone are the days of automated email sequences."
+I believe Influence is the new Outbound. Gone are the days of automated email sequences. In are the days of Impact from Subject Matter Experts. At my panel I asked: 'Who wants to know how to utilize influencers for your GTM Strategy?' Everybody's hands went up.
 
 ---
 
 ## Key Insight From Their Content
-Morgan J Ingram advocates LinkedIn-first outbound: the Green Lantern Cadence (connection, comment, video/voice, feedback, GIF) claims ~33% response rates. He argues influence beats automated email sequences, and AMP coaching cites concrete outcomes—29% more opportunities, 26% more meetings, $21M pipeline in 45 days for a construction SaaS client.
+Ingram's Green Lantern Cadence (blank connect → comment → video/voice → feedback ask → GIF) hit 33% response rate; AMP client saw +29% opportunities and +26% meetings booked — personalized video outreach remains underused (execs received zero last year).

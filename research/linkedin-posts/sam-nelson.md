@@ -1,59 +1,59 @@
-﻿# Sam Nelson – LinkedIn Posts
+# Sam Nelson — LinkedIn Posts
 
-**LinkedIn URL:** https://www.linkedin.com/in/samnelsonoutbound/
-**Followers:** Unavailable (profile required login for direct verification)
-**Why chosen:** Founder of Agoge Prospecting School; publishes SDR enablement and multi-channel sequence frameworks
-**Content retrieval method:** Search-based collection (LinkedIn post + article)
+**LinkedIn URL:** https://www.linkedin.com/in/realsamnelson/
+**Followers:** 79,311
+**Why chosen:** Creator of Agoge Prospecting, runs SDR training programs and documents student outcomes
+**Content retrieval method:** Direct profile scrape (recent activity feed)
 
 ---
 
-## Post 1 – Date unknown
+## Post 1 — 2024
 **Post URL:** https://www.linkedin.com/posts/realsamnelson_im-thrilled-to-finally-publicly-announce-activity-7155229359673327616-akg0
-**Likes:** Unavailable | **Comments:** Unavailable
+**Likes:** 259 | **Comments:** 19
 
-Thrilled to finally publicly announce Agoge Prospecting School—SDR Enablement as a Service, with on-demand cold calling and sequence strategy training for teams that want repeatable outbound playbooks.
-
----
-
-## Post 2 – Date unknown
-**Post URL:** URL unavailable (LinkedIn article: Agoge Sequence blueprint for 2X response rates)
-**Likes:** Unavailable | **Comments:** Unavailable
-
-Agoge Sequence blueprint for 2X response rates: a 15-touch multi-channel framework designed to lift replies by layering calls, email, and social touches in a defined cadence rather than single-channel blasts.
+I'm thrilled to publicly announce Agoge Prospecting School! SDR Enablement as a Service for outbound prospecting: on-demand cold calling and sequence strategy training plus weekly live sessions from top SDR leaders via SDRLeader.com.
 
 ---
 
-## Post 3 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
+## Post 2 — March 2026
+**Post URL:** https://www.linkedin.com/posts/realsamnelson_sdr-leaders-are-the-most-logical-people-to-activity-7460372637899431936-muYv
+**Likes:** 132 | **Comments:** 10
 
-[Content not retrieved — LinkedIn login required. Slot reserved for manual fill-in.]
-
----
-
-## Post 4 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
-
-[Content not retrieved — LinkedIn login required. Slot reserved for manual fill-in.]
+SDR Leaders are the most logical people to be accountable for agentic pipeline gen. They have the cleanest incentive structure for pipeline generation (meetings held between AEs and the right prospect), instincts for what makes it happen, and are willing to have a quota for that metric.
 
 ---
 
-## Post 5 – Date unknown
-**Post URL:** URL unavailable
-**Likes:** Unavailable | **Comments:** Unavailable
+## Post 3 — March 2026
+**Post URL:** https://www.linkedin.com/posts/realsamnelson_the-best-backgrounds-for-sdrs-teachers-activity-7462177333660262400-OJoA
+**Likes:** 282 | **Comments:** 183
 
-[Content not retrieved — LinkedIn login required. Slot reserved for manual fill-in.]
+The best backgrounds for SDRs: Teachers, Actors, D1 Athletes, Super high SAT/ACT, People with written long-term goals, Successful door-to-door experience, College grads excited about sales. What am I missing?
+
+---
+
+## Post 4 — March 2026
+**Post URL:** https://www.linkedin.com/posts/realsamnelson_it-was-so-fun-to-catch-up-with-45-of-our-activity-7463620018891653122-l0zf
+**Likes:** 84 | **Comments:** 0
+
+It was so fun to catch up with 45 of our SDRLeader.com members in San Francisco! Excellent venue, food, and people! And a LOT of discussion about AI. It's fun to hear all the different ways leaders are advancing the profession in this exciting new era.
+
+---
+
+## Post 5 — LinkedIn article
+**Post URL:** https://www.linkedin.com/pulse/writing-copy-closers-blueprint-2x-response-rates-sam-nelson
+**Likes:** 0 | **Comments:** 0
+
+The Agoge Sequence blueprint: 15-touch multi-channel framework that blew previous outbound sequences out of the water. Opening email power compounds like interest — customize only the first two sentences (research hook + value prop). Channels: email + LinkedIn connection, InMail (rephrase custom lines), profile views. Use first two email lines as cold call opener. Breakup email: be remembered, not liked.
 
 ---
 
 ## Most Viral Post (All Time)
-**Post URL:** https://www.linkedin.com/posts/realsamnelson_im-thrilled-to-finally-publicly-announce-activity-7155229359673327616-akg0
-**Likes:** Unavailable | **Comments:** Unavailable
+**Post URL:** https://www.linkedin.com/posts/realsamnelson_the-best-backgrounds-for-sdrs-teachers-activity-7462177333660262400-OJoA
+**Likes:** 282 | **Comments:** 183
 
-Public launch of Agoge Prospecting School—SDR Enablement as a Service with on-demand cold calling and sequence strategy training.
+The best backgrounds for SDRs: Teachers, Actors, D1 Athletes, Super high SAT/ACT, People with written long-term goals, Successful door-to-door experience, College grads excited about sales. What am I missing?
 
 ---
 
 ## Key Insight From Their Content
-Sam Nelson positions enablement as productized: Agoge Prospecting School packages cold call and sequence training for teams. His Agoge Sequence blueprint advocates a 15-touch multi-channel cadence to target ~2X response rates—structured persistence across channels instead of email-only automation.
+Nelson's Agoge Sequence is a 15-touch multi-channel framework; SDR Leaders should own agentic pipeline gen because their incentive structure (meetings held) aligns with quality pipeline — not vanity activity.
